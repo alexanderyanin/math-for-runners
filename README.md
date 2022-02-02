@@ -9,7 +9,7 @@ In the process of learning to run, I collected a lot of information that helps t
 I decided to translate all the knowledge into a program for a quick calculation and understanding of what your body is capable of at the moment.
 
 ## TODO
-- add all necessary calculation tools
-- release the web version of the application
-- add information on general physical fitness
-- add information on special running exercises
+- [ ] add all necessary calculation tools
+- [ ] release the web version of the application
+- [ ] add information on general physical fitness
+- [ ] add information on special running exercises
