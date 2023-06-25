@@ -2,8 +2,8 @@ print()
 normal_text = 'Нормальный ЧСС:'
 low_text = 'Нижний ЧСС:'
 high_text = 'Верхний ЧСС:'
-age = input('Укажите ваш возраст: ')
-normal = 220 - int(age)
+age = int(input('Укажите ваш возраст: '))
+normal = 220 - age
 low = normal * 65 / 100
 high = normal * 85 / 100
 print()
